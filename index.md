@@ -23,7 +23,7 @@ La alimentación ha sido uno de los aspectos de la vida cotidiana que más ha ca
 
 Mientras que sí, la revolución industrial trajo ingredientes y productos que son perjudiciales para nuestra salud, siempre existe la alternativa de comprar los ingredientes y cocinarlos. Por supuesto es imposible negar al completo la comida "basura" ya que no siempre se dispone del tiempo, recursos, conocimientos, o ganas, para prepararse la comida y uno se verá inclinado a consumir comida procesada, sin embargo, la dosis hace al veneno: Consumir ocasionalmente este tipo de comida como alternativa a comidas enteras no es perjudicial a la salud.
 
-Lamentablemente, no es rara la gente (especialmente en países desarrollados como Estados Unidos) que sobrepasa lo que es sano en cuanto a la comida basura, es tal el problema que en Estados Unidos, el porcentaje de obesidad está en el 41,9; más de 1 en 3 adultos. La obesidad a solas reduce tu vida alrededor de 3 años¹, sin embargo la obesidad suele estar ligada a otros problemas de estilo de vida: Sedentarismo, Disrupción del ritmo circadiano, apnea del sueño etc.
+Lamentablemente, no es rara la gente (especialmente en países desarrollados como Estados Unidos) que sobrepasa lo que es sano en cuanto a la comida basura, es tal el problema que en Estados Unidos, el porcentaje de obesidad está en el 41,9; más de 1 en 3 adultos. La obesidad a solas reduce tu vida alrededor de 3 años, sin embargo la obesidad suele estar ligada a otros problemas de estilo de vida: Sedentarismo, Disrupción del ritmo circadiano, apnea del sueño etc.
 
 ### ¿Era la alimentación de antes saludable?
 
@@ -82,14 +82,8 @@ Las abuelas también pueden ser una fuente invaluable de consejos y trucos culin
 - Pues la carne, sobretodo la ternera, era muy cara y no estaba al alcance de todos los bolsillos; Hubo una época que daba el alcance por la carnicería de allí y aún así era para fiestas muy señaladas.
 
 
+***Estoy intentado subir los audios pero está habiendo problemas***
+
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
