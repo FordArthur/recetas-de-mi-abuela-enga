@@ -15,7 +15,7 @@ Mi abuela, Carmina Alvarado Santiago, nacida un 13 de mayo de 1938, vio los horr
 
 ![La alimentación moderna](https://cdn.discordapp.com/attachments/736298436885872731/1083851585421049907/66cc5-supermercado.png)
 
-La alimentación ha sido uno de los aspectos de la vida cotidiana que más ha cambiado con el tiempo, por ejemplo, el uso de sustitutos a la grasa animal, como la margarina, es un hecho relativamente reciente; Se patentó en el 1869, en cambio, productos que se conocían antes de la revolución industrial llevan conociendose desde siglos (aunque más localizados; Gente alrededor del mundo tenía acceso a diferentes ingredientes). La mayor diferencia de nuestra limentación con la tradicional es el uso de químicos para la elaboración de esta, ya sean potenciadores de savor, edulcorantes, pigmentos o con procesos químicos como la hidrogenización.
+La alimentación ha sido uno de los aspectos de la vida cotidiana que más ha cambiado con el tiempo, por ejemplo, el uso de sustitutos a la grasa animal, como la margarina, es un hecho relativamente reciente; Se patentó en el 1869, en cambio, productos que se conocían antes de la revolución industrial llevan conociendose desde siglos (aunque más localizados; Gente alrededor del mundo tenía acceso a diferentes ingredientes). La mayor diferencia de nuestra alimentación con la tradicional es el uso de químicos para la elaboración de esta, ya sean potenciadores de sabor, edulcorantes, pigmentos o con procesos químicos como la hidrogenización.
 
 ### ¿Es nuestra alimentación saludable?
 
@@ -83,6 +83,7 @@ Las abuelas también pueden ser una fuente invaluable de consejos y trucos culin
 
 
 ***Estoy intentado subir los audios pero está habiendo problemas***
+
 
 
 ----
