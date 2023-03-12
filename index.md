@@ -47,44 +47,84 @@ Las abuelas también pueden ser una fuente invaluable de consejos y trucos culin
 
 ### **¿Qué comidas eran típicas cuando eras pequeña?**
 
+<audio controls>
+  <source src="/Grabacion_.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 - mhmm... Como ya te he contado, había muchas necesidades porque era la guerra, pues lo primero, si tu quieres saber el primer plato que comí (*en condiciones*) es la ensaladilla, porque el pan, estaba racionado [...] Me gustaban las gachas, los maimones, la sopa de tomate, el caldo y la porra
 
 ### **¿Qué productos eran de lujo por ese entonces?**
+
+<audio controls>
+  <source src="/Grabacion_2.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 - Carne, yo no, eso estaba a la altura de [...] los terratenientes que se llamaban, cuando yo ya empecé a cocinar las carnes fue con mi suegra ya que había cazado, entonces si empecé a conocer la carne en albóndigas [...] luego ya el pollo frito, con ajos [...] la fruta, las naranjas, el melon, la sandía era todo muy andaluz [...].
 
 ### **¿Existía el concepto de comida para llevar?**
 
+<audio controls>
+  <source src="/Grabacion_3.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 - No, que estuviera la comida así preparada, no; Luego ya, cuando tu madre ya era grande e iba a excursiones sí, iba a salones de comida, a algunas meriendas. (*creo que mal interpretó el punto; No era sobre los bares, sino la comida para llevar.*)
 
 ### **¿Tenías cultivos propios?**
+
+<audio controls>
+  <source src="/Grabacion_4.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 - Animales de granja yo no, pero si he conocido, yo vivía en el campo con el padrino, y entonces el padrino si tenía vacas, cerdos, gallinas [...] Claro huertos si, del tomate, de patata, de sandía, de melon [...]
 
 ### **¿No te gustaba alguna comida?**
 
+<audio controls>
+  <source src="/Grabacion_5.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 - Claro, ya the he dicho que el tomate frito con papas, eso se comía tanto que al final lo aborrecí [...]
 
 ### **¿Como se conservaba la comida?**
+
+<audio controls>
+  <source src="/Grabacion_6.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 - Se utilizaban las cenas, que eran un armario [...] se buscaba el sitio más humedo o el sitio más fresco para conservar la comida [...] (*se pregunta por otras técnicas de conservación*) también pero yo, personalmente, no lo he hecho [...] 
 
 ### **¿Que comidas eran "especiales"?**
 
+<audio controls>
+  <source src="/Grabacion_7.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 - Yo no he celebrado cumpleaños, nunca ni he ido nunca a un cumpleaños, comuniones sí, pero no eran almuerzos eran como un desayuno, y hacían alguna especie de chocolate con algún dulce; las familias manejaban los rosquillos, o algún biscocho, pero cumpleaños no [...] en las navidades también; el arroz con las almejas o el pescado: una paella.
 
 ### **¿Has notado algún cambio en cómo come la gente?**
+
+<audio controls>
+  <source src="/Grabacion_8.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 - Pues sí porque la gente joven come mucha hamburguesa [...] pues sí la gente joven yo creo que come mucha pizza [...]
 
 ### **¿Que ingredientes hay que antes no había?**
 
+<audio controls>
+  <source src="/Grabacion_9.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 - Pues la carne, sobretodo la ternera, era muy cara y no estaba al alcance de todos los bolsillos; Hubo una época que daba el alcance por la carnicería de allí y aún así era para fiestas muy señaladas.
-
-
-***Estoy intentado subir los audios pero está habiendo problemas***
-
-
 
 ----
 
